@@ -1,7 +1,7 @@
 name: Bethel Sports
 favicon: null
-layout_spectrum: 0.9916045
-typography_spectrum: 0.06975
+layout_spectrum: 0.97811
+typography_spectrum: 0.04923
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#682E86'
     - '#FFC82E'
     - '#411D54'
-  brandStrength: 1
-  lightness: 0.7071118
-  saturation: 0.8134328
-  rhythmicContrast: 0.8997201
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
