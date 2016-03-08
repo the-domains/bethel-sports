@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bethel Sports]]></title>
         <description><![CDATA[Bethel Sports]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bethel-sports/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:05:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 17:08:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bethel-sports/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bethel’s Bishop Named Conference Pitcher of the Week</p>]]></description>
-            <link>undefinedbethels-bishop-named-conference-pitcher-of-the-week/index.html</link>
+            <link>https://thegrid.ai/bethel-sports/bethels-bishop-named-conference-pitcher-of-the-week/index.html</link>
             <guid isPermaLink="false">ae775180-e846-4187-ad34-4558a61b2587</guid>
-            <pubDate>Tue, 08 Mar 2016 17:05:04 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 17:08:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
