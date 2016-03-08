@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T17:11:24.951Z'
-dateModified: '2016-03-08T17:10:08.894Z'
+description: "Trevor Bishop of Bethel (Tenn.) has been selected as the SSAC Baseball Pitcher of the Week, while Tyler Odom of William Carey (Miss.) has been named the SSAC Baseball Player of the Week, the conference office announced Monday. The duo was chosen for their performances during the week of Feb. 29-March 6.\_"
+datePublished: '2016-03-08T17:14:26.090Z'
+dateModified: '2016-03-08T17:13:54.111Z'
 title: Bethel’s Bishop Named Conference Pitcher of the Week
 author: []
 sourcePath: _posts/2016-03-08-bethels-bishop-named-conference-pitcher-of-the-week.md
@@ -22,9 +22,7 @@ url: bethels-bishop-named-conference-pitcher-of-the-week/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7427ff5c-e958-433c-9cce-064eed092294.jpg)
-
-Bethel's Bishop
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/001fe801-b7c0-410c-bcaa-41f52b5774b1.jpg)
 
 Trevor Bishop of Bethel (Tenn.) has been selected as the SSAC Baseball Pitcher of the Week, while Tyler Odom of William Carey (Miss.) has been named the SSAC Baseball Player of the Week, the conference office announced Monday. The duo was chosen for their performances during the week of Feb. 29-March 6\. 
 
