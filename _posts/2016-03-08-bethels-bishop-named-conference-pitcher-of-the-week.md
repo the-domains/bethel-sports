@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Bethel’s Bishop Named Conference Pitcher of the Week
-datePublished: '2016-03-08T17:05:04.936Z'
-dateModified: '2016-03-08T17:05:02.684Z'
+datePublished: '2016-03-08T17:08:18.430Z'
+dateModified: '2016-03-08T17:05:13.381Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-08-bethels-bishop-named-conference-pitcher-of-the-week.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-bethels-bishop-named-conference-pitcher-of-the-week.md
-published: true
 url: bethels-bishop-named-conference-pitcher-of-the-week/index.html
 _type: Article
 
