@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Bethel’s Bishop Named Conference Pitcher of the Week
-datePublished: '2016-03-08T17:08:18.430Z'
-dateModified: '2016-03-08T17:05:13.381Z'
-title: ''
+description: ''
+datePublished: '2016-03-08T17:11:24.951Z'
+dateModified: '2016-03-08T17:10:08.894Z'
+title: Bethel’s Bishop Named Conference Pitcher of the Week
 author: []
 sourcePath: _posts/2016-03-08-bethels-bishop-named-conference-pitcher-of-the-week.md
 published: true
@@ -22,7 +22,9 @@ url: bethels-bishop-named-conference-pitcher-of-the-week/index.html
 _type: Article
 
 ---
-[Bethel's Bishop Named Conference Pitcher of the Week][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7427ff5c-e958-433c-9cce-064eed092294.jpg)
+
+Bethel's Bishop
 
 Trevor Bishop of Bethel (Tenn.) has been selected as the SSAC Baseball Pitcher of the Week, while Tyler Odom of William Carey (Miss.) has been named the SSAC Baseball Player of the Week, the conference office announced Monday. The duo was chosen for their performances during the week of Feb. 29-March 6\. 
 
@@ -56,7 +58,3 @@ Week 3 (March 7): Trevor Bishop, Bethel (Tenn.)
 Week 1 (Feb. 22): Pat Lecroy, Martin Methodist (Tenn.)  
 Week 2 (Feb. 29): Alexis Cruz, Faulkner (Ala.)  
 Week 3 (March 7): Tyler Odom, William Carey (Miss.)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7427ff5c-e958-433c-9cce-064eed092294.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dab735f-ba86-4f68-a721-b3d2b3f7ba6b.jpg)
-
-[0]: http://www.bethelathletics.com/article/4997.php
